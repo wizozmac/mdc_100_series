@@ -13,6 +13,7 @@
 // limitations under the License.
 
 import 'package:flutter/material.dart';
+import 'package:pedantic_mono/pedantic_mono.dart';
 
 import 'package:Shrine/app.dart';
 
