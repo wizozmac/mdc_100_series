@@ -106,6 +106,7 @@ class _LoginPageState extends State<LoginPage> {
                 // TODO: Add a beveled rectangular border to NEXT (103)
                 RaisedButton(
                   child: Text('NEXT'),
+                  elevation: 8.0, // New code
                   onPressed: () {
                     // TODO: Show the next page (101)
                     Navigator.pop(context);
